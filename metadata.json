@@ -1,0 +1,6 @@
+{
+  "name": "ESCSIMULADOS - Treino de Provas e Olimpíadas",
+  "description": "Simulados 100% gratuitos e sem cadastro para Prova Paulista, SARESP, ENEM, OBMEP, OBA e Ensino Fundamental e Médio com gabarito comentado DRIK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
